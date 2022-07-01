@@ -1349,7 +1349,9 @@ padding-top:30px;}
     width: 100%;
   }
   
- 
+ .profile-thumb>img{
+  width: 70%;
+ }
   .row>.about>h2{
     margin-top: 6em;
   }
