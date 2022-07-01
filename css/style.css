@@ -1337,8 +1337,9 @@ padding-top:30px;}
   .star{
     display: none;
   }
-  #fh5co-header .display-tc .profile-thumb,{
-    margin-top: 3vh;
+  #fh5co-header .display-tc .profile-thumb,
+   .fh5co-cover .display-tc .profile-thumb{
+    margin: 10vh auto;
   }
   .display-tc>.slogan{
     right: 0;
