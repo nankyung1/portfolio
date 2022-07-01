@@ -1332,7 +1332,7 @@ padding-top:30px;}
 @media (max-width:991px){
   .display-tc>.name{
     left: 0;
-    bottom:-6%;
+    bottom:-8%;
   }
   .star{
     display: none;
@@ -1340,7 +1340,7 @@ padding-top:30px;}
  
   .display-tc>.slogan{
     right: 0;
-    bottom: -7%;
+    bottom: -9%;
     
   }
  
