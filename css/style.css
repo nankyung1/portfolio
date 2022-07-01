@@ -1350,8 +1350,10 @@ padding-top:30px;}
     width: 100%;
   }
  
-  
-  
+  .row .about h2{
+    margin-top: 2em;
+  }
+
   .clear{
     clear: both;
     
