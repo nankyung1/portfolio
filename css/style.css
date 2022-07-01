@@ -1353,6 +1353,9 @@ padding-top:30px;}
     margin: 160px auto;
   }
   
+  .text-center h1{
+    margin-top: 30em;
+  }
   
   .clear{
     clear: both;
