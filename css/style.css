@@ -1342,6 +1342,7 @@ padding-top:30px;}
   .display-tc>.slogan{
     right: 0;
     bottom: -5px;
+    margin-bottom: 30px;
   }
   #fh5co-header .overlay,
   .fh5co-cover .overlay {
@@ -1350,9 +1351,7 @@ padding-top:30px;}
   #fh5co-header .display-tc .profile-thumb, .fh5co-cover .display-tc .profile-thumb{
     margin: 160px auto;
   }
-  .col-md-8 .col-md-offset-2 .text-center .fh5co-heading .about{
-    margin: 15em 0 3em;
-  }
+  
   .fh5co-heading{
     margin: 4em 0 3em ;
   }
