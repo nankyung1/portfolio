@@ -1335,6 +1335,9 @@ padding-top:30px;}
     left: 0;
     bottom:0;
   }
+  .star{
+    display: none;
+  }
   .display-tc>.slogan{
     right: 0;
     bottom: 0;
