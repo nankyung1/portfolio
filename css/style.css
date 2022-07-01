@@ -1333,14 +1333,15 @@ padding-top:30px;}
 @media (max-width:991px){
   .display-tc>.name{
     left: 0;
-    bottom:0;
+    bottom:30;
   }
   .star{
     display: none;
   }
+  
   .display-tc>.slogan{
     right: 0;
-    bottom: 0;
+    bottom: 15;
   }
   #fh5co-header .overlay,
   .fh5co-cover .overlay {
