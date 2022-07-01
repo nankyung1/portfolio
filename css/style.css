@@ -1353,7 +1353,9 @@ padding-top:30px;}
     margin: 160px auto;
   }
   
-
+  .text-center h2{
+    margin-top: 2em;
+  }
   
   .clear{
     clear: both;
