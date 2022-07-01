@@ -1333,7 +1333,7 @@ padding-top:30px;}
 @media (max-width:991px){
   .display-tc>.name{
     left: 0;
-    bottom:25px;
+    bottom:-42px;
   }
   .star{
     display: none;
@@ -1341,7 +1341,7 @@ padding-top:30px;}
   
   .display-tc>.slogan{
     right: 0;
-    bottom: -5px;
+    bottom: -60px;
     
   }
  
@@ -1349,13 +1349,8 @@ padding-top:30px;}
   .fh5co-cover .overlay {
     width: 100%;
   }
-  #fh5co-header .display-tc .profile-thumb, .fh5co-cover .display-tc .profile-thumb{
-    margin: 160px auto;
-  }
+ 
   
-  .text-center h2{
-    margin-top: 2em;
-  }
   
   .clear{
     clear: both;
